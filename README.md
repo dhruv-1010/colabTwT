@@ -1,4 +1,4 @@
-# Machine Learning Bootcamp
+# Machine Learning Bootcamp !
 
 Welcome to my Machine Learning Bootcamp repository! 🚀 In this collection of Google Colab notebooks, I delve into various machine learning concepts, algorithms, and projects.
 
